@@ -2,7 +2,7 @@
 
 ## Overview
 
-Fast Lending, a peer-to-peer lending services company wants to use machine learning to predict credit risk. Management believes that this will provide a quicker and more reliable loan experience. It also believes that machine learning will lead to a more accurate identification of good candidates for loans which will lead to lower default rates. 
+Fast Lending, a peer-to-peer lending services company wants to use machine learning to predict credit risk. Management believes that machine learning will provide a quicker and more reliable loan experience. It also believes that it will lead to a more accurate identification of good candidates for loans and default candidates. 
 
 The following are the deliverables, in this project: 
 
